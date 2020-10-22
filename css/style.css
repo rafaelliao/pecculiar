@@ -1,0 +1,76 @@
+
+
+.div_header {
+    width: 100vw;
+    height: 30px;
+    background: #e9ecef;
+    margin-top: 0;
+    align-items: center;
+    padding-top: 15px;
+}
+
+.social_header {
+    display: grid;
+    grid-auto-flow: column;
+    gap: 20px;
+    list-style: none;
+    width: fit-content;
+    padding: 25px;
+    
+}
+
+.navbar_custom {
+    background: #183153;
+    font-family: 'Poppins', sans-serif;
+}
+
+.brand_custom {
+    color: whitesmoke;
+    padding-right: 10px;
+}
+
+.section_1 {
+    display: grid;
+    grid-template-rows: 50% 50%;
+    grid-template-columns: 33.33% 33.33% 33.33%;
+    width: 100vw;
+    height: 50vh;
+    background: rgb(201, 216, 245);
+    padding-top: 20px;
+    justify-content: center;
+    
+    
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    height: 4rem;
+    grid-row: 1 /1;
+    grid-column: 1 / 4;
+    text-align: center;
+}
+
+.profile_text {
+    grid-row: 1 / 1;
+    grid-column: 2 / 3;
+    padding-top: 70px;
+    text-align: justify;
+}
+
+.avatar {
+    display: grid;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    border: #183153 solid 3px;
+    text-shadow: black;    
+}
+
+.avatar_div {
+    align-content: center;
+    grid-row: 2 / 2;
+    grid-column: 2 / 3;
+}
+

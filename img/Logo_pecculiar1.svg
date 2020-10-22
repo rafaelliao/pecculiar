@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64 Bit Versão de avaliação) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="150mm" height="150mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 15000 15000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ enable-background="new 0 0 1400 980">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#84716B;fill-rule:nonzero}
+   ]]>
+  </style>
+    <mask id="id0">
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="-2447.74" y1="-919.57" x2="7233.68" y2="6437.72">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:white"/>
+  </linearGradient>
+     <rect style="fill:url(#id1)" x="2876.55" y="2490.63" width="9502.46" height="9502.51"/>
+    </mask>
+    <mask id="id2">
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" x1="-2447.74" y1="-919.57" x2="7233.68" y2="6437.72">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:white"/>
+  </linearGradient>
+     <rect style="fill:url(#id3)" x="2876.55" y="3440.11" width="7599.16" height="7603.54"/>
+    </mask>
+    <mask id="id4">
+  <linearGradient id="id5" gradientUnits="userSpaceOnUse" x1="-2447.74" y1="-919.57" x2="7233.68" y2="6437.72">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:white"/>
+  </linearGradient>
+     <rect style="fill:url(#id5)" x="4775.52" y="4389.6" width="5704.52" height="5704.53"/>
+    </mask>
+    <mask id="id6">
+  <linearGradient id="id7" gradientUnits="userSpaceOnUse" x1="-2447.74" y1="-919.57" x2="7233.68" y2="6437.72">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:white"/>
+  </linearGradient>
+     <rect style="fill:url(#id7)" x="4775.52" y="5339.08" width="3805.54" height="3805.57"/>
+    </mask>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2105913413936">
+   <path class="fil0" style="mask:url(#id0)" d="M7627.77 2494.44c-2621.92,0 -4747.41,2125.49 -4747.41,4747.43 0,-2359.72 1912.94,-4272.7 4272.67,-4272.7 2359.74,0 4272.68,1912.98 4272.68,4272.7 0,2359.75 -1912.94,4272.72 -4272.68,4272.72 -2359.73,0 -4272.67,-1912.97 -4272.67,-4272.72 0,2621.92 2125.49,4747.46 4747.41,4747.46 2621.94,0 4747.43,-2125.54 4747.43,-4747.46 0,-2621.94 -2125.49,-4747.43 -4747.43,-4747.43z"/>
+   <path class="fil0" style="mask:url(#id2)" d="M6678.28 11039.84c2040.17,0 3704.12,-1608.84 3793.62,-3626.9 -89.02,1755.85 -1540.9,3152.17 -3318.87,3152.17 -1835.33,0 -3323.18,-1487.89 -3323.18,-3323.24 0,-1835.33 1487.85,-3323.21 3323.18,-3323.21 1777.97,0 3229.85,1396.33 3318.87,3152.18 -89.5,-2018.12 -1753.45,-3626.92 -3793.62,-3626.92 -2097.52,0 -3797.92,1700.4 -3797.92,3797.95 0,2097.53 1700.4,3797.97 3797.92,3797.97z"/>
+   <path class="fil0" style="mask:url(#id4)" d="M7627.77 4393.41c-1573.13,0 -2848.44,1275.31 -2848.44,2848.46 0,-1310.93 1062.76,-2373.73 2373.7,-2373.73 1310.95,0 2373.71,1062.8 2373.71,2373.73 0,1310.96 -1062.76,2373.7 -2373.71,2373.7 -1310.94,0 -2373.7,-1062.74 -2373.7,-2373.7 0,1573.13 1275.31,2848.45 2848.44,2848.45 1573.15,0 2848.46,-1275.32 2848.46,-2848.45 0,-1573.15 -1275.31,-2848.46 -2848.46,-2848.46z"/>
+   <path class="fil0" style="mask:url(#id6)" d="M6678.28 9140.84c1048.76,0 1898.97,-850.23 1898.97,-1898.97 0,786.56 -637.65,1424.22 -1424.22,1424.22 -786.56,0 -1424.21,-637.66 -1424.21,-1424.22 0,-786.59 637.65,-1424.24 1424.21,-1424.24 786.57,0 1424.22,637.65 1424.22,1424.24 0,-1048.76 -850.21,-1898.98 -1898.97,-1898.98 -1048.73,0 -1898.95,850.22 -1898.95,1898.98 0,1048.74 850.22,1898.97 1898.95,1898.97z"/>
+  </g>
+ </g>
+</svg>
